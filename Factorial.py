@@ -29,6 +29,6 @@ def factorial_loop(n):
 
 n = input("Enter an Natural number to find its factorial: ")
 n = int(n)
-print("Recursvive method 1: {}".format(factorial_r1(n)))
-print("Recursvive method 2: {}".format(factorial_r2(n)))
+print("Recursive method 1: {}".format(factorial_r1(n)))
+print("Recursive method 2: {}".format(factorial_r2(n)))
 print("Loop method: {}".format(factorial_loop(n)))
