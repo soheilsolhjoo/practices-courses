@@ -129,12 +129,13 @@ def word_counter(words_list, word_count):
 
 
 def main():
-    file_name = "Hamlet_pg1524.txt"
-    poster_name = "Hamlet_words.pdf"
+    file_name = "paper.txt"
+    poster_name = "paper_words.jpg"
 
     # Open
     text_file = open(file_name, "r")
     Lines = text_file.readlines()
+    # print(Lines)
 
     # Read line-by-line
     clean_line = []
@@ -150,7 +151,7 @@ def main():
         word_count.update(word_counter(line, word_count))
 
     # Draw a word cloud
-    cloud = wordcloud.WordCloud()
+    cloud = wordcloud.WordCloud(width=800, height=600, scale=5)
     frequency = cloud.generate_from_frequencies(word_count)
     cloud.to_file(poster_name)
 
