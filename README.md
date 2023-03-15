@@ -29,7 +29,7 @@ This is my try for the final project of the **Image Processing for Engineering a
 The goal of the final project was to identify moving cars on a road.
 
 ## [p5js](https://github.com/soheilsolhjoo/practices-courses/tree/main/p5j)
-This is the collection of my practices with [p5.js JavaScript library](https://p5js.org/).
+This is the collection of my practices with [p5.js](https://p5js.org/), a JavaScript library.
 
 ## [Keras-TensorFlow](https://github.com/soheilsolhjoo/practices-courses/tree/main/Keras-TensorFlow)
 + These are the practiced codes for the course **Practical AI with Python and Reinforcement Learning** by Jose Portilla on [Udemy](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/).
