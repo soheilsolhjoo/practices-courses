@@ -33,7 +33,10 @@ This is the collection of my practices with [p5.js](https://p5js.org/), a JavaSc
 
 ## [Keras-TensorFlow](https://github.com/soheilsolhjoo/practices-courses/tree/main/Keras-TensorFlow)
 + These are the practiced codes for the course **Practical AI with Python and Reinforcement Learning** by Jose Portilla on [Udemy](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/).
-  + [Syntax Basics](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/00-Keras-Syntax-Basics.ipynb)
-  + [Regression](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/01-Keras-Regression.ipynb)
-  + [Classification](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/02-Keras-Classification.ipynb)
-  + Project: [Predict House Price for House Sales in King County, USA](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/03-Keras-Project-Exercise.ipynb)
+  + [FFNN: Syntax Basics](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/00-Keras-Syntax-Basics.ipynb)
+  + [FFNN: Regression](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/01-Keras-Regression.ipynb)
+  + [FFNN: Classification](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/02-Keras-Classification.ipynb)
+  + Exercise: [FFNN: Predict House Price for House Sales in King County, USA](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/03-Keras-Project-Exercise.ipynb)
+  + [CNN: Image Classification - MNIST data](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/CNN-mnist.ipynb)
+  + [CNN: Image Classification - CIFAR 10 data](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/CNN-cifar10.ipynb)
+  + [CNN: Image Classification - Real Images - Malaria Detection](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/Malaria%20Detection.ipynb)
