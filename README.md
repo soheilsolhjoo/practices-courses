@@ -40,4 +40,4 @@ This is the collection of my practices with [p5.js](https://p5js.org/), a JavaSc
   + [CNN: Image Classification - MNIST data](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/CNN-mnist.ipynb)
   + [CNN: Image Classification - CIFAR 10 data](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/CNN-cifar10.ipynb)
   + [CNN: Image Classification - Real Images - Malaria Detection](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/Malaria%20Detection.ipynb)
-  + Assessment: [CNN: Image Classification - FASHION MNIST]([https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/Malaria%20Detection.ipynb](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/04-DL-CV-Assessment.ipynb)
+  + Assessment: [CNN: Image Classification - FASHION MNIST](https://github.com/soheilsolhjoo/practices-courses/blob/main/Keras-TensorFlow/04-DL-CV-Assessment.ipynb)
