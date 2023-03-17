@@ -12,8 +12,9 @@ This is a small collection of practices from the book [Algorithms For Dummies](h
 + Fild path in graphs
 + Naive sorting
 
-## [Word Cloud](https://github.com/soheilsolhjoo/practices-courses/tree/main/WordCloud)
-This is the final project of the course **Crash Course on Python** by *Google* on [Coursera](https://www.coursera.org/learn/python-crash-course/). Obviously, the code is in Python.
+## Python
++ [Word Cloud](https://github.com/soheilsolhjoo/practices-courses/tree/main/Python/WordCloud): this is the final project of the course **Crash Course on Python** by *Google* on [Coursera](https://www.coursera.org/learn/python-crash-course/). Obviously, the code is in Python.
++ [Hangman](https://github.com/soheilsolhjoo/practices-courses/tree/main/Python/Hangman): a simple game of hangman.
 
 ## [Machine Learning on Coursera](https://github.com/soheilsolhjoo/practices-courses/tree/main/ML_Coursera)
 These are the files from the **Machine Learning** course by *Andrew Ng*, which was available on Coursera (and isn't anymore). The videos of the course can be found in YouTube, e.g., [here](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN). In each session (of 8 sessions in total), a topic was taught, and for practicing that, some starting (and incomplete) codes were provided, which should be completed by the students to make the code running. This collection is my tries to complete and run the codes. The codes are in MATLAB.
