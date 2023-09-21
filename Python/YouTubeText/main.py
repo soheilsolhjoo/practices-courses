@@ -5,7 +5,7 @@ i_name = "tm.txt"
 o_name = "tm_ready.txt"
 
 picked_lines = []
-with open(i_name, "r") as fi:
+with open(i_name, "r", errors="ignore") as fi:
     i = 1
     for line in fi:
         if i % 2 == 0:

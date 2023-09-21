@@ -3,7 +3,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 # using the srt variable with the list of dictionaries
 # obtained by the .get_transcript() function
-srt = YouTubeTranscriptApi.get_transcript("iNyUmbmQQZg")
+srt = YouTubeTranscriptApi.get_transcript("TyuGBi6joxY")
 
 picked_lines = []
 for line in srt:
